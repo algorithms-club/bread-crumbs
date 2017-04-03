@@ -6,7 +6,19 @@
 
 # Union-find algorithm
 
-should support methods:
+Represent elements and conections betwin them in array
+where index is element number (name) and value is component to which it belongs
+
+```
+ 1 2 3 4 5   <= elements indexes
+[1,1,3,5,5]  <= component name
+```
+here we have three components 
+* 1 and 2
+* 3
+* 4 and 5
+
+Union-find (uf) should support methods:
 
 * `.connect(a,  d)` should conect two elements in one component
 * `.isConnected(a,  d)` should return (boolean) ansver are two elements connected (in the same component / is there path from `a` to `b`)
