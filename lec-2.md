@@ -6,8 +6,8 @@
 
 # Union-find algorithm
 
-Represent elements and conections betwin them in array
-where index is element number (name) and value is component to which it belongs
+Represent elements and connections between them in array
+where index is element number (name) and value is a component to which it belongs
 
 ```
  1 2 3 4 5   <= elements indexes
