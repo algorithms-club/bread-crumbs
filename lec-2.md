@@ -4,7 +4,7 @@
 
 > Component - one or more elements are connected to each other
 
-# Union-find method
+# Union-find algorithm
 
 should support methods:
 
