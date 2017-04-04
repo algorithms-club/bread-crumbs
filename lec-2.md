@@ -13,15 +13,15 @@ where index is element number (name) and value is a component to which it belong
  1 2 3 4 5   <= elements indexes
 [1,1,3,5,5]  <= component name
 ```
-here we have three components 
+Here we have three components 
 * 1 and 2
 * 3
 * 4 and 5
 
 Union-find (uf) should support methods:
 
-* `.connect(a,  d)` should conect two elements in one component
-* `.isConnected(a,  d)` should return (boolean) ansver are two elements connected (in the same component / is there path from `a` to `b`)
+* `.connect(a,  d)` should connect two elements in one component
+* `.isConnected(a,  d)` should return (boolean) answer are two elements connected (in the same component / is there path from `a` to `b`)
 * `.count()` should return number of components
 * `.component(a)` should return component name or `undefined` if element not exist
 
