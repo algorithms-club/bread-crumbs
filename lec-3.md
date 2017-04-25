@@ -73,7 +73,7 @@ for each operation `isConnected` we can optimise path from elements to their roo
       5. return to new branch and modify your changes
           * you should see your changes
 
-Tths comands can halp you
+This commands can help you
   * git status
   * git diff
   * git add
