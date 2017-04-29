@@ -1,15 +1,15 @@
 # Lec-4 22.04.2017
 
-## Basyc data structure
+## Basic data structure
 
 ### Array
 
 Random access memory, it requires single, not fragmented sequence of memory cells, variable with array point to the first element with index 0. 
-Each element goes one after another in memory, so it possible te calculate the address of any index in the array if we know the address of 0th element.
+Each element goes one after another in memory, so it possible to calculate the address of any index in the array if we know the address of 0th element.
 
-Incase when 0 element should be deleted or insert new element at the bigining need to shift all aelements
+In case when element 0 should be deleted or new element should be inserted at the bigining you need to shift all elements
 
-In case with dynamic length array, under the hood created array with defined length and every time there are no free space in the array, it should find new place in memory to copy current elements + new one.
+In case with dynamic length array, under the hood created array with defined length and every time when there is no free space in the array, it should find new place in memory to copy current elements + new one.
 
 https://en.wikipedia.org/wiki/Array_data_structure
 
@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Linked_list
 
 ### Stack and Queue
 
-Collections of elements have two method `inser` nad `get`
+Collections of elements have two method `insert` nad `get`
 
 in the stack, insertion and getting elements should be the same no matter at the start of the collection or at the end
 
@@ -39,9 +39,9 @@ https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 ## How to Review
 
 - you should understand the code.
-- code style should be the same during all code and not mixing different syles
-- namein of variables should be meaningful
-- all methods should be cover by test
+- code style should be the same during all code and not be a mix of different syles
+- naming of variables should be meaningful
+- every method should be cover by test
 - tests should passing
 - code should be pretty and clean
     - no useless variables
