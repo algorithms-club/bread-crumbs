@@ -41,8 +41,8 @@ https://www.youtube.com/watch?v=n4sk-SzGvZA
 1. Implement helper function
   * shuffle (should take collection and return in random order)
   * isSorted (should take collection and return boolean)
-1. Implement Selection sort OR Insertion sort
-2. Implement Shell sort
+2. Implement Selection sort OR Insertion sort
+3. Implement Shell sort
 
 Optional 
 1. Merge sort
