@@ -1,4 +1,4 @@
-# Lec-4 29.04.2017
+# Lec-5 29.04.2017
 
 ## Sorting algorithms
 
@@ -39,8 +39,8 @@ https://www.youtube.com/watch?v=n4sk-SzGvZA
 # Home work
 
 1. Implement helper function
-  * shuffle (should take collection and return in random order)
-  * isSorted (should take collection and return boolean)
+    * shuffle (should take collection and return in random order)
+    * isSorted (should take collection and return boolean)
 2. Implement Selection sort OR Insertion sort
 3. Implement Shell sort
 
