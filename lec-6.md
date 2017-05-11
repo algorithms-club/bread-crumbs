@@ -18,7 +18,7 @@ Using recursion in your code can cause you Stack overflow.
 Some language can optimise some recursion cases.
 https://en.wikipedia.org/wiki/Tail_call
 
-> At home try to count haw big depth of recursion in your implementation.
+> At home try to count how big is a depth of recursion in your implementation.
 
 Some sorting method are stable
 Stability is a ability to sort elements without breaking their initial order of equal elements, we can use it to sort same collection by different properties or with different compare function multiple times.
