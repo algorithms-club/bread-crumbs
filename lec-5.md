@@ -24,16 +24,16 @@ sort([3,6,2,7], compare)
 in any time when sorting algorithm should know is the one element bigger than another it use compare function
 
 ### Selection sort
-https://en.wikipedia.org/wiki/Selection_sort
-https://www.youtube.com/watch?v=92BfuxHn2XE 
+* https://en.wikipedia.org/wiki/Selection_sort
+* https://www.youtube.com/watch?v=92BfuxHn2XE 
 
 ### Insertion sort
-https://en.wikipedia.org/wiki/Insertion_sort
-https://www.youtube.com/watch?v=8oJS1BMKE64
+* https://en.wikipedia.org/wiki/Insertion_sort
+* https://www.youtube.com/watch?v=8oJS1BMKE64
 
 ### Shell sort
-https://en.wikipedia.org/wiki/Shellsort
-https://www.youtube.com/watch?v=n4sk-SzGvZA
+* https://en.wikipedia.org/wiki/Shellsort
+* https://www.youtube.com/watch?v=n4sk-SzGvZA
 
 
 # Home work
